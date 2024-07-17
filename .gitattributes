@@ -1,0 +1,21 @@
+# Ensure JSON files use LF line endings
+*.json text eol=lf
+
+# Ensure JavaScript files use LF line endings
+*.js text eol=lf
+
+# Ensure TypeScript files use LF line endings
+*.ts text eol=lf
+
+# Ensure Markdown files use LF line endings
+*.md text eol=lf
+
+# Ensure HTML files use LF line endings
+*.html text eol=lf
+
+# Ensure CSS files use LF line endings
+*.css text eol=lf
+*.json text eol=lf
+*.js text eol=lf
+*.ts text eol=lf
+*.md text eol=lf
